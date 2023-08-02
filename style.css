@@ -1,0 +1,7 @@
+input[type=text]{
+    max-height: 5vh;
+    max-width: 100%;
+}
+button{
+    width: auto;
+}
